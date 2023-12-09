@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-🌎A passionate web developer working with React, HTML, CSS, JavaScript, and Tailwind CSS with an aesthetic touch using Chakra UI. 
+🌎A passionate web developer working with React, HTML, CSS, JavaScript, Tailwind CSS, and Chakra UI to develop responsive web apps to create a better world.
 
 🚀 I thrive on contributing to meaningful open-source projects. Explore my GitHub for insights into my impactful contributions and the innovative projects that define my journey.
 
