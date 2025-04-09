@@ -4,7 +4,7 @@ Shreyansh Pandey
 Full Stack Developer
 ------------------
 
-I can somehow make things work with Next.js, React.js, Tailwind CSS, Node.js, Express.js, Prisma, Drizzle and much more stuff I can't remember.
+There is no other side. This is it.
 
 *   ### Skills 
 <p align="left">
@@ -19,6 +19,5 @@ I can somehow make things work with Next.js, React.js, Tailwind CSS, Node.js, Ex
 
 <a href="http://www.github.com/shreyansh232"><img src="https://github-readme-stats.vercel.app/api?username=shreyansh232&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0891b2&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="shreyansh232's GitHub stats" /></a>
 
-<a href="http://www.github.com/shreyansh232"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh232&stroke=0891b2&background=0f172a&ring=f97316&fire=f97316&currStreakNum=0891b2&currStreakLabel=f97316&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
 <a href="https://github.com/shreyansh232" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh232&langs_count=10&title_color=f97316&text_color=0891b2&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
