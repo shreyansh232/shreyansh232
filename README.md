@@ -1,7 +1,4 @@
 Shreyansh Pandey
 ========================================================================================================================================
 
-Full Stack Developer
-------------------
-
-working on low level stuff these days
+working on low level stuff with mostly c++ these days
