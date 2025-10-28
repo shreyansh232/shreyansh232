@@ -4,4 +4,4 @@ Shreyansh Pandey
 Full Stack Developer
 ------------------
 
-There is no other side. This is it.
+working on low level stuff these days
