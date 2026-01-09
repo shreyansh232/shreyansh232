@@ -1,4 +1,4 @@
 Shreyansh Pandey
 ========================================================================================================================================
 
-working on low level stuff with mostly c++ these days
+Exploring gen AI lately. Learning to build effective agents to not get replaced by one.
