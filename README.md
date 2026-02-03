@@ -1,4 +1,4 @@
 Shreyansh Pandey
 ========================================================================================================================================
 
-Learning to build effective agents to not get replaced by one
+Building effective agents to not get replaced by one
